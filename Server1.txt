@@ -1,2 +1,1 @@
-vless://e769aae6-2360-43ad-b0b8-c9250dcefcfc@ersho.rezaxvip.shop:2087?encryption=none&security=tls&sni=ersho.rezaxvip.shop&alpn=http%2F1.1&fp=chrome&type=ws&path=%2F#Abolfazl
-vless://e769aae6-2360-43ad-b0b8-c9250dcefcfc@ersho.rezaxvip.shop:2087?encryption=none&security=tls&sni=ersho.rezaxvip.shop&alpn=http%2F1.1&fp=chrome&type=ws&path=%2F#Rezvane
+v1
