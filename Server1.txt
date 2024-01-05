@@ -1,1 +1,2 @@
-v1
+vless://a818754d-1302-438c-8097-e9f9de8dda09@sky1.onlineskyshop.online:2053?type=ws&path=%2F&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=sky1.onlineskyshop.online#one-abolfazl
+vless://63402d62-07e8-4d42-81dd-0c057a0d5474@sky1.onlineskyshop.online:2053?type=ws&path=%2F&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=sky1.onlineskyshop.online#one-rezvane
