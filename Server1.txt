@@ -1,2 +1,1 @@
-vless://a60bf577-66e3-4210-ba38-3bee3cc7a454@one.onlineskyshop.online:8443?encryption=none&security=tls&sni=sky1.onlineskyshop.online&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=sky1.onlineskyshop.online&mode=gun#Rez
-vless://a60bf577-66e3-4210-ba38-3bee3cc7a454@one.onlineskyshop.online:8443?encryption=none&security=tls&sni=sky1.onlineskyshop.online&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=sky1.onlineskyshop.online&mode=gun#Abolfzl
+
