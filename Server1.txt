@@ -1,1 +1,2 @@
-
+vless://529b7e3a-a81a-436c-a261-75bdf7ad1e78@page.moonlightshop.shop:443?hiddify=1&sni=page.moonlightshop.shop&type=ws&alpn=h2&path=/UHCiN7TzUKDi5SovJHz0uZ&host=page.moonlightshop.shop&encryption=none&fp=chrome&headerType=None&security=tls#tun%20VIP%20VPS%201
+vless://529b7e3a-a81a-436c-a261-75bdf7ad1e78@page.moonlightshop.shop:443?hiddify=1&sni=page.moonlightshop.shop&type=grpc&alpn=h2&path=UHCiN7TzIOO78yCIcGviz&host=page.moonlightshop.shop&serviceName=UHCiN7TzIOO78yCIcGviz&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#tun%20VIP%20VPS%202
