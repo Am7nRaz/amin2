@@ -1,1 +1,3 @@
-
+vless://529b7e3a-a81a-436c-a261-75bdf7ad1e78@zula.ir:443?hiddify=1&sni=login.smartmindai.ir&type=ws&alpn=h2,http/1.1&path=/QLETU4tp7aw0uphUBzvWO5jM&host=login.smartmindai.ir&encryption=none&fp=chrome&headerType=None&security=tls#VIP%20%F0%9F%87%A9%F0%9F%87%AA%20%40SPEEDS_VPN%20%F0%9F%87%A9%F0%9F%87%AA
+vless://529b7e3a-a81a-436c-a261-75bdf7ad1e78@account.zula.ir:443?hiddify=1&sni=menu.smartmindai.ir&type=ws&alpn=h2,http/1.1&path=/QLETU4tp7aw0uphUBzvWO5jM&host=menu.smartmindai.ir&encryption=none&fp=chrome&headerType=None&security=tls#VIP2%20%F0%9F%87%A9%F0%9F%87%AA%20%40SPEEDS_VPN%20%F0%9F%87%A9%F0%9F%87%AA
+vless://529b7e3a-a81a-436c-a261-75bdf7ad1e78@www.zula.ir:443?hiddify=1&sni=menu2.smartmindai.ir&type=ws&alpn=h2,http/1.1&path=/QLETU4tp7aw0uphUBzvWO5jM&host=menu2.smartmindai.ir&encryption=none&fp=chrome&headerType=None&security=tls#VIP3%20%F0%9F%87%A9%F0%9F%87%AA%20%40SPEEDS_VPN%20%F0%9F%87%A9%F0%9F%87%AA
